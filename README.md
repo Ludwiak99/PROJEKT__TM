@@ -10,7 +10,6 @@ Zamysłem projektu jest pomiar poziomu wody za pomocą czujnika
 ## Elementy
 
 
-* 
 * Czujnik poziomu wody
 * Arduino UNO
 	
